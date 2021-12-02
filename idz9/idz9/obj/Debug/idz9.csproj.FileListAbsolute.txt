@@ -1,0 +1,10 @@
+C:\Users\федор\source\repos\idz9\idz9\bin\Debug\idz9.exe.config
+C:\Users\федор\source\repos\idz9\idz9\bin\Debug\idz9.exe
+C:\Users\федор\source\repos\idz9\idz9\bin\Debug\idz9.pdb
+C:\Users\федор\source\repos\idz9\idz9\obj\Debug\idz9.Form1.resources
+C:\Users\федор\source\repos\idz9\idz9\obj\Debug\idz9.Properties.Resources.resources
+C:\Users\федор\source\repos\idz9\idz9\obj\Debug\idz9.csproj.GenerateResource.cache
+C:\Users\федор\source\repos\idz9\idz9\obj\Debug\idz9.csproj.CoreCompileInputs.cache
+C:\Users\федор\source\repos\idz9\idz9\obj\Debug\idz9.exe
+C:\Users\федор\source\repos\idz9\idz9\obj\Debug\idz9.pdb
+C:\Users\федор\source\repos\idz9\idz9\obj\Debug\idz9.csproj.AssemblyReference.cache
